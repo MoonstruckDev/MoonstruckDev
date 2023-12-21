@@ -4,6 +4,8 @@
 
 
 <div align=center;>
+
+![Profile Views](https://komarev.com/ghpvc/?username=moonstruckdev&style=for-the-badge)
 <h3> 🌙 &nbsp;About Me </h3>
 
 - 😄 Pronouns: He/Him 
@@ -12,8 +14,6 @@
 - 🌱 I’m currently learning: CSS Animations & SCSS
 - 💬 Ask me about: anything, I am happy to help
 - 💜 Interests: Streaming, music, video games, internet culture, travel & walks
-
-![Profile Views](https://komarev.com/ghpvc/?username=MoonstruckDev)
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
