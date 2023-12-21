@@ -1,5 +1,5 @@
 <div style="position: relative;">
-  <img style="width: 100%; height: 350px; object-fit: cover;" src="https://media.discordapp.net/attachments/1155893920169988186/1187379631154798612/firefox_EZ6RssuocC.png" alt="Welcome Banner">
+  <img style="width: 100%;" src="https://media.discordapp.net/attachments/1155893920169988186/1187379631154798612/firefox_EZ6RssuocC.png" alt="Welcome Banner">
 </div>
 <br>
 
