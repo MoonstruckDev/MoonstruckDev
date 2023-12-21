@@ -5,7 +5,7 @@
 
 
 
-**`Front-End Developper - Sass/Javascript`**
+### Front-End Developper - Sass/Javascript
 
 Well hello there! 👋 I'm Luc, a passionate front-end developer with a love for crafting visually appealing and user-friendly websites. Since my early years, I've been fascinated by the art of web development, when I was 10 during recess, i'd grab my laptop and make very basic HTML websites and that really kick started my love for web development, that then turned into making bots for discord in C# but no matter what my heart always led me back to Web Dev. That childhood curiosity has evolved into a lifelong passion, a passion that I have to indulge by learning new technologies, new ways to improve and making beautiful websites!
 <br>
