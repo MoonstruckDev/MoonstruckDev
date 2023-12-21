@@ -5,7 +5,6 @@
 
 <div style="position: relative;">
   <img style="width: 100%; height: 350px; object-fit: cover;" src="https://c4.wallpaperflare.com/wallpaper/892/692/922/howl-s-moving-castle-studio-ghibli-fantasy-art-clouds-daylight-hd-wallpaper-preview.jpg" alt="Welcome Banner">
-<img style="background: transparent; position: absolute; top: 22%; left: 50%; transform: translateX(-50%);" src="https://moonstruck.pro/assets/images/wave.gif" alt="MoonstruckDev's profile picture">
   <p style="position: absolute; color: black; top: 50%; left: 50%; transform: translateX(-50%); font-family: 'JetBrains Mono', monospace; font-size: 3rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">MoonstruckDev</p>
 </div>
 <br>
