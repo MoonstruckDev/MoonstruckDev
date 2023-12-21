@@ -13,7 +13,7 @@
 - 💬 Ask me about: anything, I am happy to help
 - 💜 Interests: Streaming, music, video games, internet culture, travel & walks
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=MoonstruckDev)
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -58,7 +58,7 @@ Languages used: Java
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=moonstruckspirit&theme=dracula&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=moonstruckdev&theme=dracula&show_icons=true&count_private=true" />
 </p>
 <br/>
 </div>
