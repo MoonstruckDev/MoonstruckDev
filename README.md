@@ -1,16 +1,13 @@
 <div style="position: relative;">
-  <img style="width: 100%; height: 350px; object-fit: cover;" src="https://c4.wallpaperflare.com/wallpaper/892/692/922/howl-s-moving-castle-studio-ghibli-fantasy-art-clouds-daylight-hd-wallpaper-preview.jpg" alt="Welcome Banner">
+  <img style="width: 100%; height: 350px; object-fit: cover;" src="  https://media.discordapp.net/attachments/1155893920169988186/1187379631154798612/firefox_EZ6RssuocC.png" alt="Welcome Banner">
 </div>
 <br>
-  
 
 
 
 **`Front-End Developper - Sass/Javascript`**
-<div>
-<div>
+
 Well hello there! 👋 I'm Luc, a passionate front-end developer with a love for crafting visually appealing and user-friendly websites. Since my early years, I've been fascinated by the art of web development, when I was 10 during recess, i'd grab my laptop and make very basic HTML websites and that really kick started my love for web development, that then turned into making bots for discord in C# but no matter what my heart always led me back to Web Dev. That childhood curiosity has evolved into a lifelong passion, a passion that I have to indulge by learning new technologies, new ways to improve and making beautiful websites!
-</div>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=moonstruckdev&style=for-the-badge&color=orange" alt="Profile Views">
