@@ -1,11 +1,5 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-
-
 <div style="position: relative;">
   <img style="width: 100%; height: 350px; object-fit: cover;" src="https://c4.wallpaperflare.com/wallpaper/892/692/922/howl-s-moving-castle-studio-ghibli-fantasy-art-clouds-daylight-hd-wallpaper-preview.jpg" alt="Welcome Banner">
-  <p style="position: absolute; color: black; top: 50%; left: 50%; transform: translateX(-50%); font-family: 'JetBrains Mono', monospace; font-size: 3rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">MoonstruckDev</p>
 </div>
 <br>
   
