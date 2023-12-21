@@ -2,10 +2,10 @@
   <img src="https://i.pinimg.com/originals/52/8d/cb/528dcbfa42d264fa319b4ebbdd62c775.gif" alt="Welcome Banner">
 </p>
 
+<div style="text-align: center;">
+  ![Profile Views](https://komarev.com/ghpvc/?username=moonstruckdev&style=for-the-badge)
+</div>
 
-<div align=center;>
-
-![Profile Views](https://komarev.com/ghpvc/?username=moonstruckdev&style=for-the-badge)
 <h3> 🌙 &nbsp;About Me </h3>
 
 - 😄 Pronouns: He/Him 
