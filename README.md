@@ -23,7 +23,8 @@ Well hello there! 👋 I'm Luc, a passionate front-end developer with a love for
   ![Sass]( 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=A020F0)
+  ![React Router](https://img.shields.io/badge/React%20Router-20232A?style=for-the-badge&logo=react%20router&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=A020F0)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
